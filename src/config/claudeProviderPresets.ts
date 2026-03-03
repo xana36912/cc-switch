@@ -125,7 +125,7 @@ export const providerPresets: ProviderPreset[] = [
     websiteUrl: "https://bailian.console.aliyun.com",
     settingsConfig: {
       env: {
-        ANTHROPIC_BASE_URL: "https://codingdashscope.aliyuncs.com/apps/anthropic",
+        ANTHROPIC_BASE_URL: "https://coding.dashscope.aliyuncs.com/apps/anthropic",
         ANTHROPIC_AUTH_TOKEN: "",
       },
     },
